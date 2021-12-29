@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c47bfdcb-e969-4072-96c6-90a7af6954a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/jobtask1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/jobtask1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobtask1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/jobtask1/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobtask1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/jobtask1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobtask1/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/jobtask1/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobtask1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/jobtask1/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobtask1/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobtask1/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobtask1/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/jobtask1/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobtask1/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobtask1/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobtask1/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/jobtask1" />
+  </component>
+  <component name="ProjectId" id="22mYb9zVrZB7VRTb7shztE6pJ6V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c47bfdcb-e969-4072-96c6-90a7af6954a7" name="Default Changelist" comment="" />
+      <created>1640444298669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640444298669</updated>
+      <workItem from="1640444299839" duration="1824000" />
+      <workItem from="1640446154704" duration="185000" />
+      <workItem from="1640451041801" duration="16000" />
+      <workItem from="1640511732501" duration="1586000" />
+      <workItem from="1640678549621" duration="950000" />
+      <workItem from="1640680554516" duration="610000" />
+      <workItem from="1640681200811" duration="14000" />
+      <workItem from="1640681215647" duration="1374000" />
+      <workItem from="1640682917762" duration="27000" />
+      <workItem from="1640689685352" duration="582000" />
+      <workItem from="1640690800462" duration="464000" />
+      <workItem from="1640691422255" duration="1240000" />
+      <workItem from="1640693325294" duration="1750000" />
+      <workItem from="1640695704037" duration="1784000" />
+      <workItem from="1640697515494" duration="1655000" />
+      <workItem from="1640699325265" duration="1785000" />
+      <workItem from="1640701133401" duration="529000" />
+      <workItem from="1640701762827" duration="1785000" />
+      <workItem from="1640703571664" duration="1496000" />
+      <workItem from="1640706339190" duration="546000" />
+      <workItem from="1640716254843" duration="9000" />
+      <workItem from="1640716481676" duration="39000" />
+      <workItem from="1640716633595" duration="906000" />
+      <workItem from="1640768948515" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1640681211288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1640681211288" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1640697046648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1640697046648" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1640768948262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1640768948262" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1640446023646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1640446023646" />
+  </component>
+</project>

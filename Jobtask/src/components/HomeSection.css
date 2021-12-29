@@ -1,0 +1,574 @@
+.mai_menu {
+    width: 100%;
+}
+
+.fff {
+    display: none;
+}
+
+.results{
+   display: none;
+}
+
+.results_changes {
+    width: 100%;
+    padding-left: 140px;
+    padding-right: 140px;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+.success_img {
+    margin-left: 7px;
+    margin-bottom: 32px;
+}
+
+.success_header {
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 44px;
+    margin-bottom: 15px;
+}
+
+.success_subheader {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #6A707B;
+}
+
+.success_line {
+    position: relative;
+    margin-left: 140px;
+    margin-right: 140px;
+    max-width: 400px;
+    height: 1px;
+    background: #E3E3E4;  
+}
+
+.mai_heading {
+    position: relative;
+    padding-left: 140px;
+    padding-top: 174px;
+}
+
+.heading {
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 44px;
+    color: #131821;
+}
+
+.mai_subheading {
+    position: relative;
+    padding-left: 140px;
+    padding-top: 15px;
+    padding-right: 140px;
+}
+
+.subheading {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #6A707B;
+}
+
+.mai_form {
+    position: absolute;
+    padding-left: 140px;
+    padding-top: 50px;
+}
+
+.imput_wrap {
+    position: absolute;
+    left: 100px;
+    width: 663px;
+    height: 70px;
+}
+
+.email_input{
+    position: absolute;
+    padding-left: 40px;
+    width: 663px;
+    height: 70px;
+    background: #FFFFFF;
+    border: 1px solid #E3E3E4;
+    border-left-color: #4066A5;
+    border-left-width: 4px;
+    box-sizing: border-box;
+}
+
+
+.email_input:focus{
+    border: 1px solid #E3E3E4;
+    box-shadow: 0px 30px 40px rgba(19, 24, 33, 0.06);
+
+}
+
+.email_input:hover{
+    border: 1px solid #4066A5;
+    box-shadow: 0px 30px 40px rgba(19, 24, 33, 0.06);
+}
+
+.email_arrow {
+    position: absolute;
+    right: 20px;
+    padding-top: 28px;
+}
+
+.mai_checkbox {
+    position: relative;
+    display: flex;
+    padding-top: 154px;
+}
+
+.checkbox{
+    width: 26px;
+    height: 26px;
+    background: #FFFFFF;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #E3E3E4;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.checkbox:checked{
+    background: #4066A5;
+}
+
+.checkbox_label{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    padding-left: 15px;
+    color: #6A707B;
+}
+
+.link {
+   
+    color: #131821;
+}
+
+.line {
+    position: relative;
+    margin-top: 280px;
+    margin-left: 140px;
+    margin-right: 140px;
+    max-width: 400px;
+    height: 1px;
+    background: #E3E3E4;
+}
+
+.labels {
+    width: 100%;
+    padding-left: 218px;
+    padding-top: 50px;
+    padding-right: 218px;
+}
+
+.labels_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.labels-list {
+    list-style: none;
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+}
+
+.labels-item {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.facebook {
+    height: 46px;
+    width: 46px;
+    border-radius: 50%;
+    border: 2px solid #E3E3E4;
+    background-image: url(../../public/images/ic_facebook.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #FFFFFF;
+}
+
+.facebook:hover {
+    background-image: url(../../public/images/ic_facebookW.svg);
+    background-repeat: no-repeat;
+    background-color: #4267B2;
+    box-shadow: 0px 20px 40px rgba(19, 24, 33, 0.3);
+}
+
+.facebook:active {
+    background-image: url(../../public/images/ic_facebookW.svg);
+    background-repeat: no-repeat;
+    background-color: #2F4A80;
+    box-shadow: 0px 20px 40px rgba(19, 24, 33, 0.3);
+}
+
+.instagram {
+    height: 46px;
+    width: 46px;
+    border-radius: 50%;
+    border: 2px solid #E3E3E4;
+    background-image: url(../../public/images/ic_instagram.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #FFFFFF;
+}
+
+.instagram:hover {
+    background-image: url(../../public/images/ic_instagramW.svg);
+    background-repeat: no-repeat;
+    background-color: #C13584;
+    box-shadow: 0px 20px 40px rgba(19, 24, 33, 0.3);
+}
+
+.instagram:active {
+    background-image: url(../../public/images/ic_instagramW.svg);
+    background-repeat: no-repeat;
+    background-color: #8F2762;
+    box-shadow: 0px 20px 40px rgba(19, 24, 33, 0.3);
+}
+
+.twitter {
+    height: 46px;
+    width: 46px;
+    border-radius: 50%;
+    border: 2px solid #E3E3E4;
+    background-image: url(../../public/images/ic_twitter.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #FFFFFF;
+}
+
+.twitter:hover {
+    background-image: url(../../public/images/ic_twitterW.svg);
+    background-repeat: no-repeat;
+    background-color: #1DA1F2;
+    box-shadow: 0px 20px 40px rgba(19, 24, 33, 0.3);
+}
+
+.twitter:active {
+    background-image: url(../../public/images/ic_twitterW.svg);
+    background-repeat: no-repeat;
+    background-color: #177FBF;
+    box-shadow: 0px 20px 40px rgba(19, 24, 33, 0.3);
+}
+
+.youtube {
+    height: 46px;
+    width: 46px;
+    border-radius: 50%;
+    border: 2px solid #E3E3E4;
+    background-image: url(../../public/images/ic_youtube.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #FFFFFF;
+}
+
+.youtube:hover {
+    background-image: url(../../public/images/ic_youtubeW.svg);
+    background-repeat: no-repeat;
+    background-color: #FF0000;
+    box-shadow: 0px 20px 40px rgba(19, 24, 33, 0.3);
+}
+
+.youtube:active {
+    background-image: url(../../public/images/ic_youtubeW.svg);
+    background-repeat: no-repeat;
+    background-color: #CC0000;
+    box-shadow: 0px 20px 40px rgba(19, 24, 33, 0.3);
+}
+
+
+
+@media screen and (max-width: 678px) {
+    .r-side {
+        display: none;
+    }
+
+    .mai_menu {
+        width: 100%;
+        height: 746px;
+        padding-top: 188px;
+        background-image: url(../../public/images/Pineapple_mob.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .mai_menu_content {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+        background-color: white;
+    }
+
+    .results_changes {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 32px;
+        padding-bottom: 0px;
+    }
+
+    .success_img {
+        margin-left: 0px;
+        margin-bottom: 39px;
+    }
+    
+    .success_header {
+        font-size: 24px;
+        line-height: 34px;
+        margin-bottom: 10px;
+        color: #131821;
+    }
+    
+    .success_subheader {
+        font-size: 14px;
+        line-height: 26px;
+        color: #6A707B;
+        margin-bottom: 39px;
+    }
+    
+    .success_line {
+        position: relative;
+        margin-top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        max-width: 100%;
+        width: 100%;
+        height: 1px;
+        background: #E3E3E4;
+        margin-bottom: 20px; 
+    }
+
+    .mai_heading {
+        position: relative;
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+        margin-bottom: 10px;
+    }
+
+    .mai_subheading {
+        position: relative;
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+        margin-bottom: 20px;
+    }
+
+    .heading {
+        font-size: 24px;
+        line-height: 34px;
+        color: #131821;
+    }
+
+    .subheading {
+        font-size: 14px;
+        line-height: 26px;
+        color: #6A707B;
+    }
+
+    .mai_form {
+        position: relative;
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+        margin-bottom: 21px;
+
+    }
+
+    .imput_wrap {
+        position: relative;
+        left: 0px;
+        margin-bottom: 21px;
+        width: 100%;
+    }
+    .email_input{
+        position: relative;
+        width: 100%;
+        height: 60px;
+        left: 0;
+        top: 0;
+        padding-left: 40px;
+        background: #FFFFFF;
+        border: 1px solid #E3E3E4;
+        border-left-color: #4066A5;
+        border-left-width: 4px;
+        box-sizing: border-box;
+        
+    }
+
+    .email_arrow {
+        position: absolute;
+        right: 5px;
+        padding-top: 22px;
+    }
+
+    .mai_checkbox {
+        position: relative;
+        padding-top: 0px;
+        padding-left: 0px;
+    }
+
+    .line {
+        position: relative;
+        margin-top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        max-width: 100%;
+        width: 100%;
+        height: 1px;
+        background: #E3E3E4;
+        margin-bottom: 20px;
+    }
+
+    .labels {
+        width: 100%;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+    }
+
+    .labels-item {
+        margin-right: 10px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .r-side {
+        display: none;
+    }
+    .mai_menu {
+        width: 100%;
+        height: 100%;
+        padding-top: 188px;
+        background-image: url(../../public/images/Pineapple_mob.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+    .mai_menu_content {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+        background-color: white;
+    }
+
+    .mai_heading {
+        position: relative;
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+        margin-bottom: 10px;
+    }
+
+    .mai_subheading {
+        position: relative;
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+        margin-bottom: 20px;
+    }
+
+    .heading {
+        font-size: 24px;
+        line-height: 34px;
+        color: #131821;
+    }
+
+    .subheading {
+        font-size: 14px;
+        line-height: 26px;
+        color: #6A707B;
+    }
+
+    .mai_form {
+        position: relative;
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+        margin-bottom: 21px;
+
+    }
+
+    .imput_wrap {
+        position: relative;
+        left: 0px;
+        margin-bottom: 21px;
+    }
+    .email_input{
+        position: relative;
+        width: 295px;
+        height: 60px;
+        left: 0;
+        top: 0;
+        padding-left: 40px;
+        background: #FFFFFF;
+        border: 1px solid #E3E3E4;
+        border-left-color: #4066A5;
+        border-left-width: 4px;
+        box-sizing: border-box;
+        
+    }
+
+    .email_arrow {
+        position: absolute;
+        right: 20px;
+        padding-top: 24px;
+    }
+
+    .mai_checkbox {
+        position: relative;
+        padding-top: 0px;
+        padding-left: 0px;
+    }
+
+    .line {
+        position: relative;
+        margin-top: 0px;
+        margin-left: 20px;
+        margin-right: 20px;
+        max-width: 295px;
+        height: 1px;
+        background: #E3E3E4;
+        margin-bottom: 20px;
+    }
+
+    .labels {
+        width: 100%;
+        padding-left: 33px;
+        padding-top: 0px;
+        padding-right: 48px;
+    }
+
+    .labels-item {
+        margin-right: 10px;
+    }
+}
